@@ -1,0 +1,22 @@
+{
+  "name": "fince-news-portal",
+  "version": "1.0.0",
+  "description": "Fince News - Premium multi-page Crypto & Finance blogging portal in White & Orange theme with 9 dedicated in-depth articles",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "blog",
+    "crypto",
+    "finance",
+    "web3",
+    "fintech",
+    "fince-news"
+  ],
+  "author": "Fince News Media",
+  "license": "MIT",
+  "devDependencies": {
+    "isomorphic-git": "^1.44.11"
+  }
+}
